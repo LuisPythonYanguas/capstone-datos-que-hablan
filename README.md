@@ -69,4 +69,4 @@ python scripts/04_visualise.py              # Phase 4  -> charts/*.png
 5. **Visualise** — five professional charts.
 6. **Interpret & Report** — plain-language findings and a leadership-ready executive report.
 
-*Built with Claude Code. The analyst is the tool; the strategy is human.*
+
