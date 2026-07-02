@@ -5,6 +5,7 @@ Capstone Project · **Option B: Data Analyst** · Futuro Digital LatAm, 2025
 Turning a raw survey of **500 young professionals** across six Latin American countries into an
 executive analysis report to guide the region's next financial-literacy programme.
 
+🔗 **Repository:** https://github.com/LuisPythonYanguas/capstone-datos-que-hablan
 📄 **Read the full report:** [`analysis-report.md`](analysis-report.md)
 
 ---
